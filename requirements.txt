@@ -1,0 +1,8 @@
+Django
+djangorestframework
+django-htmx
+django-crispy-forms
+crispy-bootstrap5
+psycopg2-binary        # si tu utilises PostgreSQL
+Pillow                # pour gérer les images
+gunicorn            # pour le déploiement sur Render ou Heroku
